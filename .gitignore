@@ -1,0 +1,48 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+*.egg
+*.egg-info
+*.venv/
+*.env
+*.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+*.pkl
+
+# TensorFlow
+*.h5
+*.ckpt
+
+# Model files
+models/
+
+# Data files
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
