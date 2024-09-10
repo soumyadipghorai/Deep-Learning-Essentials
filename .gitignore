@@ -48,4 +48,4 @@ data/
 Thumbs.db
 
 # logs 
-lightning_logs/
+PyTorch/BAM/lightning_logs/
