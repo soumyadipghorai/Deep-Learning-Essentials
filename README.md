@@ -2,7 +2,7 @@
 
 Welcome to the **Deep Learning Essentials**, a comprehensive collection of notebooks and algorithms that explore various aspects of deep learning. This repository is designed to serve as both a learning resource and a practical tool for deep learning enthusiasts, professionals, and students alike.
 
-The notes and notebooks included here are inspired by lectures from **IIT Madras** and **IIT Bombay**, making them a valuable resource for understanding key deep learning concepts taught by world-renowned faculty. 🎓
+The notes and notebooks included here are inspired by lectures from **@IIT Madras**, **@IIT Bombay**, and **@Statquest**, making them a valuable resource for understanding key deep learning concepts taught by world-renowned faculty. 🎓
 
 ## Repository Structure 📁
 
