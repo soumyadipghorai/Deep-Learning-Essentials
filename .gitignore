@@ -46,3 +46,6 @@ data/
 
 # Windows
 Thumbs.db
+
+# logs 
+lightning_logs/
